@@ -2,7 +2,7 @@
 """
 Created on Sat Jan 14 16:10:34 2023
 
-@author: 65159
+@author: Nalian Lu
 """
 
 import math
