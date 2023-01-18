@@ -4,4 +4,5 @@ My solutions for ps assignments in [MIT OpenCourseWare 6.0001 Introduction to Co
 ## Problem Sets:
 * ps0: Simple Python Program
 * ps1: House Hunting
+* ps2: Hangman
 * (in progress)
